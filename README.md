@@ -19,3 +19,28 @@
    - Nome completo
 5. O sistema deverá invalidar o link de SignIn enviado por e-mail após o usuário logar no sistema.
 6. A API deverá ter documentação completa, sugerimos que seja feita com [**Swagger**](https://swagger.io/).
+
+## 🤝 COLABORADORES
+
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/102948001?s=400&u=29ab657b043bead88e80296977dd2d3c3206ce70&v=4" width="100px;" alt="Foto do Samuel Verneck"/><br>
+        <sub>
+          <b>Samuel Verneck</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/71355170?v=4" width="100px;" alt="Foto do Caio"/><br>
+        <sub>
+          <b>Caio Soares</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>

@@ -22,6 +22,6 @@
 
 #### TECNOLOGIAS
 
-- DOCUMENTAÇÃO
- - Swagger
+##### DOCUMENTAÇÃO
+- Swagger
  

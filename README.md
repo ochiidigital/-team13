@@ -1,11 +1,11 @@
 ## NODE TEAM - #TEAM 13
 
-### Projeto de Autenticação
+### PROJETO DE AUTENTICAÇÃO
 
 - Desenvolver uma API de autenticação de usuários por e-mail.
 - O projeto deverá cadastrar usuário, confirmar usuário por e-mail e autenticar o usuário no sistema via e-mail.
 
-#### Requisitos
+#### REQUISITOS
 
 1. O sistema deverá ter uma rota para criar o usuário com os seguintes atributos:
    - Nome completo

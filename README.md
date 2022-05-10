@@ -21,9 +21,6 @@
 6. A API deverá ter documentação completa, sugerimos que seja feita com [**Swagger**](https://swagger.io/).
 
 ## 🤝 COLABORADORES
-
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
-
 <table>
   <tr>
     <td align="center">

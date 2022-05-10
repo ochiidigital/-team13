@@ -21,7 +21,5 @@
 6. A API deverá ter documentação completa, sugerimos que seja feita com [**Swagger**](https://swagger.io/).
 
 #### TECNOLOGIAS
-
-##### DOCUMENTAÇÃO
 - Swagger
  

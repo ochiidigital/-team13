@@ -19,3 +19,9 @@
    - Nome completo
 5. O sistema deverá invalidar o link de SignIn enviado por e-mail após o usuário logar no sistema.
 6. A API deverá ter documentação completa, sugerimos que seja feita com [**Swagger**](https://swagger.io/).
+
+#### TECNOLOGIAS
+
+- DOCUMENTAÇÃO
+  - Swagger
+ 

@@ -39,5 +39,13 @@
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/20245924?v=4" width="100px;" alt="Foto do Alexsander"/><br>
+        <sub>
+          <b>Alexsander Soares</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>

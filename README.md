@@ -47,5 +47,13 @@
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/83619066?v=4" width="100px;" alt="Foto do Marcelo"/><br>
+        <sub>
+          <b>Marcelo Silva</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
